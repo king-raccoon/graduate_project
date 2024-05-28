@@ -39,7 +39,7 @@ conversation_directory = "dialogues"
 # 요약문이 저장된 디렉토리
 summary_directory = "summaries"
 # 결과를 저장할 파일
-results_filepath = "semantic_similarity_results.txt"
+results_filepath = "semantic_similarity_results(Cosine).txt"
 
 # 결과 파일 초기화
 with open(results_filepath, 'w', encoding='utf-8') as results_file:

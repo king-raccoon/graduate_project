@@ -1,0 +1,1809 @@
+Dialogue and Summary Semantic Similarity Results
+=============================================
+
+1th dialog와 1th summary의 유사도:
+Semantic 유사도: 84.12%
+ROUGE-1: 5.78%
+ROUGE-2: 0.00%
+ROUGE-L: 4.62%
+
+2th dialog와 2th summary의 유사도:
+Semantic 유사도: 83.84%
+ROUGE-1: 7.75%
+ROUGE-2: 1.29%
+ROUGE-L: 7.75%
+
+3th dialog와 3th summary의 유사도:
+Semantic 유사도: 70.16%
+ROUGE-1: 3.28%
+ROUGE-2: 0.00%
+ROUGE-L: 3.28%
+
+4th dialog와 4th summary의 유사도:
+Semantic 유사도: 73.14%
+ROUGE-1: 3.03%
+ROUGE-2: 0.00%
+ROUGE-L: 3.03%
+
+5th dialog와 5th summary의 유사도:
+Semantic 유사도: 88.41%
+ROUGE-1: 13.68%
+ROUGE-2: 2.90%
+ROUGE-L: 13.68%
+
+6th dialog와 6th summary의 유사도:
+Semantic 유사도: 82.68%
+ROUGE-1: 13.42%
+ROUGE-2: 4.90%
+ROUGE-L: 13.42%
+
+7th dialog와 7th summary의 유사도:
+Semantic 유사도: 76.02%
+ROUGE-1: 3.12%
+ROUGE-2: 0.00%
+ROUGE-L: 3.12%
+
+8th dialog와 8th summary의 유사도:
+Semantic 유사도: 72.99%
+ROUGE-1: 6.00%
+ROUGE-2: 0.00%
+ROUGE-L: 6.00%
+
+9th dialog와 9th summary의 유사도:
+Semantic 유사도: 85.54%
+ROUGE-1: 4.85%
+ROUGE-2: 2.09%
+ROUGE-L: 4.85%
+
+10th dialog와 10th summary의 유사도:
+Semantic 유사도: 83.76%
+ROUGE-1: 10.87%
+ROUGE-2: 2.67%
+ROUGE-L: 10.87%
+
+11th dialog와 11th summary의 유사도:
+Semantic 유사도: 78.03%
+ROUGE-1: 3.54%
+ROUGE-2: 0.00%
+ROUGE-L: 3.54%
+
+12th dialog와 12th summary의 유사도:
+Semantic 유사도: 81.08%
+ROUGE-1: 7.25%
+ROUGE-2: 1.29%
+ROUGE-L: 5.80%
+
+13th dialog와 13th summary의 유사도:
+Semantic 유사도: 58.97%
+ROUGE-1: 3.85%
+ROUGE-2: 0.00%
+ROUGE-L: 3.85%
+
+14th dialog와 14th summary의 유사도:
+Semantic 유사도: 88.57%
+ROUGE-1: 5.26%
+ROUGE-2: 0.00%
+ROUGE-L: 5.26%
+
+15th dialog와 15th summary의 유사도:
+Semantic 유사도: 83.56%
+ROUGE-1: 10.61%
+ROUGE-2: 2.65%
+ROUGE-L: 10.61%
+
+16th dialog와 16th summary의 유사도:
+Semantic 유사도: 36.01%
+ROUGE-1: 5.71%
+ROUGE-2: 0.00%
+ROUGE-L: 5.71%
+
+17th dialog와 17th summary의 유사도:
+Semantic 유사도: 46.32%
+ROUGE-1: 2.70%
+ROUGE-2: 0.00%
+ROUGE-L: 2.70%
+
+18th dialog와 18th summary의 유사도:
+Semantic 유사도: 80.98%
+ROUGE-1: 7.41%
+ROUGE-2: 0.00%
+ROUGE-L: 7.41%
+
+19th dialog와 19th summary의 유사도:
+Semantic 유사도: 60.90%
+ROUGE-1: 3.61%
+ROUGE-2: 0.00%
+ROUGE-L: 3.61%
+
+20th dialog와 20th summary의 유사도:
+Semantic 유사도: 85.16%
+ROUGE-1: 7.19%
+ROUGE-2: 2.52%
+ROUGE-L: 5.76%
+
+21th dialog와 21th summary의 유사도:
+Semantic 유사도: 85.89%
+ROUGE-1: 15.09%
+ROUGE-2: 4.52%
+ROUGE-L: 15.09%
+
+22th dialog와 22th summary의 유사도:
+Semantic 유사도: 68.94%
+ROUGE-1: 2.12%
+ROUGE-2: 0.00%
+ROUGE-L: 2.12%
+
+23th dialog와 23th summary의 유사도:
+Semantic 유사도: 77.21%
+ROUGE-1: 9.16%
+ROUGE-2: 1.29%
+ROUGE-L: 9.16%
+
+24th dialog와 24th summary의 유사도:
+Semantic 유사도: 76.82%
+ROUGE-1: 4.26%
+ROUGE-2: 0.00%
+ROUGE-L: 4.26%
+
+25th dialog와 25th summary의 유사도:
+Semantic 유사도: 59.96%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+26th dialog와 26th summary의 유사도:
+Semantic 유사도: 88.36%
+ROUGE-1: 10.77%
+ROUGE-2: 1.38%
+ROUGE-L: 10.77%
+
+27th dialog와 27th summary의 유사도:
+Semantic 유사도: 68.59%
+ROUGE-1: 5.31%
+ROUGE-2: 0.00%
+ROUGE-L: 5.31%
+
+28th dialog와 28th summary의 유사도:
+Semantic 유사도: 85.58%
+ROUGE-1: 4.51%
+ROUGE-2: 0.00%
+ROUGE-L: 4.51%
+
+29th dialog와 29th summary의 유사도:
+Semantic 유사도: 67.05%
+ROUGE-1: 2.13%
+ROUGE-2: 0.00%
+ROUGE-L: 2.13%
+
+30th dialog와 30th summary의 유사도:
+Semantic 유사도: 64.89%
+ROUGE-1: 1.77%
+ROUGE-2: 0.00%
+ROUGE-L: 1.77%
+
+31th dialog와 31th summary의 유사도:
+Semantic 유사도: 61.36%
+ROUGE-1: 14.81%
+ROUGE-2: 6.21%
+ROUGE-L: 14.81%
+
+32th dialog와 32th summary의 유사도:
+Semantic 유사도: 64.69%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+33th dialog와 33th summary의 유사도:
+Semantic 유사도: 76.66%
+ROUGE-1: 12.96%
+ROUGE-2: 1.57%
+ROUGE-L: 12.96%
+
+34th dialog와 34th summary의 유사도:
+Semantic 유사도: 78.44%
+ROUGE-1: 20.69%
+ROUGE-2: 5.62%
+ROUGE-L: 19.31%
+
+35th dialog와 35th summary의 유사도:
+Semantic 유사도: 72.68%
+ROUGE-1: 2.74%
+ROUGE-2: 0.00%
+ROUGE-L: 2.74%
+
+36th dialog와 36th summary의 유사도:
+Semantic 유사도: 42.71%
+ROUGE-1: 1.68%
+ROUGE-2: 0.00%
+ROUGE-L: 1.68%
+
+37th dialog와 37th summary의 유사도:
+Semantic 유사도: 67.52%
+ROUGE-1: 3.17%
+ROUGE-2: 1.30%
+ROUGE-L: 3.17%
+
+38th dialog와 38th summary의 유사도:
+Semantic 유사도: 74.44%
+ROUGE-1: 1.67%
+ROUGE-2: 0.00%
+ROUGE-L: 1.67%
+
+39th dialog와 39th summary의 유사도:
+Semantic 유사도: 77.92%
+ROUGE-1: 7.63%
+ROUGE-2: 0.00%
+ROUGE-L: 7.63%
+
+40th dialog와 40th summary의 유사도:
+Semantic 유사도: 76.61%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+41th dialog와 41th summary의 유사도:
+Semantic 유사도: 71.83%
+ROUGE-1: 5.52%
+ROUGE-2: 1.18%
+ROUGE-L: 5.52%
+
+42th dialog와 42th summary의 유사도:
+Semantic 유사도: 82.36%
+ROUGE-1: 21.38%
+ROUGE-2: 7.37%
+ROUGE-L: 20.13%
+
+43th dialog와 43th summary의 유사도:
+Semantic 유사도: 92.76%
+ROUGE-1: 2.16%
+ROUGE-2: 0.91%
+ROUGE-L: 2.16%
+
+44th dialog와 44th summary의 유사도:
+Semantic 유사도: 85.31%
+ROUGE-1: 16.54%
+ROUGE-2: 6.67%
+ROUGE-L: 16.54%
+
+45th dialog와 45th summary의 유사도:
+Semantic 유사도: 83.50%
+ROUGE-1: 8.96%
+ROUGE-2: 0.00%
+ROUGE-L: 8.96%
+
+46th dialog와 46th summary의 유사도:
+Semantic 유사도: 81.18%
+ROUGE-1: 1.57%
+ROUGE-2: 0.00%
+ROUGE-L: 1.57%
+
+47th dialog와 47th summary의 유사도:
+Semantic 유사도: 72.32%
+ROUGE-1: 2.15%
+ROUGE-2: 0.00%
+ROUGE-L: 2.15%
+
+48th dialog와 48th summary의 유사도:
+Semantic 유사도: 84.32%
+ROUGE-1: 7.30%
+ROUGE-2: 0.00%
+ROUGE-L: 7.30%
+
+49th dialog와 49th summary의 유사도:
+Semantic 유사도: 77.35%
+ROUGE-1: 11.11%
+ROUGE-2: 0.00%
+ROUGE-L: 11.11%
+
+50th dialog와 50th summary의 유사도:
+Semantic 유사도: 77.30%
+ROUGE-1: 3.45%
+ROUGE-2: 0.00%
+ROUGE-L: 3.45%
+
+51th dialog와 51th summary의 유사도:
+Semantic 유사도: 71.55%
+ROUGE-1: 5.71%
+ROUGE-2: 1.09%
+ROUGE-L: 5.71%
+
+52th dialog와 52th summary의 유사도:
+Semantic 유사도: 61.62%
+ROUGE-1: 2.60%
+ROUGE-2: 0.00%
+ROUGE-L: 2.60%
+
+53th dialog와 53th summary의 유사도:
+Semantic 유사도: 81.86%
+ROUGE-1: 15.14%
+ROUGE-2: 4.63%
+ROUGE-L: 14.05%
+
+54th dialog와 54th summary의 유사도:
+Semantic 유사도: 75.01%
+ROUGE-1: 7.14%
+ROUGE-2: 0.00%
+ROUGE-L: 7.14%
+
+55th dialog와 55th summary의 유사도:
+Semantic 유사도: 80.55%
+ROUGE-1: 6.50%
+ROUGE-2: 1.37%
+ROUGE-L: 4.88%
+
+56th dialog와 56th summary의 유사도:
+Semantic 유사도: 67.27%
+ROUGE-1: 8.39%
+ROUGE-2: 2.21%
+ROUGE-L: 8.39%
+
+57th dialog와 57th summary의 유사도:
+Semantic 유사도: 85.98%
+ROUGE-1: 9.58%
+ROUGE-2: 3.17%
+ROUGE-L: 9.58%
+
+58th dialog와 58th summary의 유사도:
+Semantic 유사도: 82.81%
+ROUGE-1: 6.45%
+ROUGE-2: 0.00%
+ROUGE-L: 6.45%
+
+59th dialog와 59th summary의 유사도:
+Semantic 유사도: 74.06%
+ROUGE-1: 20.47%
+ROUGE-2: 5.23%
+ROUGE-L: 18.90%
+
+60th dialog와 60th summary의 유사도:
+Semantic 유사도: 78.58%
+ROUGE-1: 5.71%
+ROUGE-2: 1.63%
+ROUGE-L: 5.71%
+
+61th dialog와 61th summary의 유사도:
+Semantic 유사도: 89.99%
+ROUGE-1: 14.53%
+ROUGE-2: 6.31%
+ROUGE-L: 14.53%
+
+62th dialog와 62th summary의 유사도:
+Semantic 유사도: 47.50%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+63th dialog와 63th summary의 유사도:
+Semantic 유사도: 80.07%
+ROUGE-1: 9.45%
+ROUGE-2: 0.00%
+ROUGE-L: 7.87%
+
+64th dialog와 64th summary의 유사도:
+Semantic 유사도: 77.59%
+ROUGE-1: 1.50%
+ROUGE-2: 0.00%
+ROUGE-L: 1.50%
+
+65th dialog와 65th summary의 유사도:
+Semantic 유사도: 80.52%
+ROUGE-1: 8.00%
+ROUGE-2: 2.33%
+ROUGE-L: 8.00%
+
+66th dialog와 66th summary의 유사도:
+Semantic 유사도: 72.91%
+ROUGE-1: 2.30%
+ROUGE-2: 0.00%
+ROUGE-L: 2.30%
+
+67th dialog와 67th summary의 유사도:
+Semantic 유사도: 71.57%
+ROUGE-1: 9.93%
+ROUGE-2: 2.35%
+ROUGE-L: 8.51%
+
+68th dialog와 68th summary의 유사도:
+Semantic 유사도: 92.57%
+ROUGE-1: 12.24%
+ROUGE-2: 1.10%
+ROUGE-L: 10.88%
+
+69th dialog와 69th summary의 유사도:
+Semantic 유사도: 68.93%
+ROUGE-1: 7.46%
+ROUGE-2: 1.20%
+ROUGE-L: 7.46%
+
+70th dialog와 70th summary의 유사도:
+Semantic 유사도: 81.22%
+ROUGE-1: 3.10%
+ROUGE-2: 0.00%
+ROUGE-L: 3.10%
+
+71th dialog와 71th summary의 유사도:
+Semantic 유사도: 89.19%
+ROUGE-1: 12.74%
+ROUGE-2: 4.40%
+ROUGE-L: 11.46%
+
+72th dialog와 72th summary의 유사도:
+Semantic 유사도: 87.88%
+ROUGE-1: 6.19%
+ROUGE-2: 1.71%
+ROUGE-L: 6.19%
+
+73th dialog와 73th summary의 유사도:
+Semantic 유사도: 53.00%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+74th dialog와 74th summary의 유사도:
+Semantic 유사도: 35.38%
+ROUGE-1: 3.54%
+ROUGE-2: 1.42%
+ROUGE-L: 3.54%
+
+75th dialog와 75th summary의 유사도:
+Semantic 유사도: 86.90%
+ROUGE-1: 5.23%
+ROUGE-2: 0.00%
+ROUGE-L: 5.23%
+
+76th dialog와 76th summary의 유사도:
+Semantic 유사도: 92.63%
+ROUGE-1: 19.64%
+ROUGE-2: 5.80%
+ROUGE-L: 19.64%
+
+77th dialog와 77th summary의 유사도:
+Semantic 유사도: 77.36%
+ROUGE-1: 9.37%
+ROUGE-2: 0.00%
+ROUGE-L: 7.81%
+
+78th dialog와 78th summary의 유사도:
+Semantic 유사도: 84.60%
+ROUGE-1: 2.61%
+ROUGE-2: 0.00%
+ROUGE-L: 2.61%
+
+79th dialog와 79th summary의 유사도:
+Semantic 유사도: 47.08%
+ROUGE-1: 1.40%
+ROUGE-2: 0.00%
+ROUGE-L: 1.40%
+
+80th dialog와 80th summary의 유사도:
+Semantic 유사도: 66.41%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+81th dialog와 81th summary의 유사도:
+Semantic 유사도: 67.09%
+ROUGE-1: 1.92%
+ROUGE-2: 0.00%
+ROUGE-L: 1.92%
+
+82th dialog와 82th summary의 유사도:
+Semantic 유사도: 87.56%
+ROUGE-1: 7.30%
+ROUGE-2: 1.27%
+ROUGE-L: 7.30%
+
+83th dialog와 83th summary의 유사도:
+Semantic 유사도: 76.23%
+ROUGE-1: 8.99%
+ROUGE-2: 1.92%
+ROUGE-L: 8.99%
+
+84th dialog와 84th summary의 유사도:
+Semantic 유사도: 69.37%
+ROUGE-1: 1.35%
+ROUGE-2: 0.00%
+ROUGE-L: 1.35%
+
+85th dialog와 85th summary의 유사도:
+Semantic 유사도: 87.33%
+ROUGE-1: 7.69%
+ROUGE-2: 0.00%
+ROUGE-L: 7.69%
+
+86th dialog와 86th summary의 유사도:
+Semantic 유사도: 80.94%
+ROUGE-1: 5.48%
+ROUGE-2: 0.00%
+ROUGE-L: 4.11%
+
+87th dialog와 87th summary의 유사도:
+Semantic 유사도: 82.92%
+ROUGE-1: 6.25%
+ROUGE-2: 0.00%
+ROUGE-L: 6.25%
+
+88th dialog와 88th summary의 유사도:
+Semantic 유사도: 66.90%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+89th dialog와 89th summary의 유사도:
+Semantic 유사도: 65.45%
+ROUGE-1: 1.65%
+ROUGE-2: 0.00%
+ROUGE-L: 1.65%
+
+90th dialog와 90th summary의 유사도:
+Semantic 유사도: 73.35%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+91th dialog와 91th summary의 유사도:
+Semantic 유사도: 71.13%
+ROUGE-1: 5.26%
+ROUGE-2: 0.00%
+ROUGE-L: 5.26%
+
+92th dialog와 92th summary의 유사도:
+Semantic 유사도: 85.32%
+ROUGE-1: 12.09%
+ROUGE-2: 0.00%
+ROUGE-L: 12.09%
+
+93th dialog와 93th summary의 유사도:
+Semantic 유사도: 68.64%
+ROUGE-1: 2.27%
+ROUGE-2: 0.00%
+ROUGE-L: 2.27%
+
+94th dialog와 94th summary의 유사도:
+Semantic 유사도: 78.37%
+ROUGE-1: 3.28%
+ROUGE-2: 0.00%
+ROUGE-L: 3.28%
+
+95th dialog와 95th summary의 유사도:
+Semantic 유사도: 71.91%
+ROUGE-1: 10.34%
+ROUGE-2: 4.62%
+ROUGE-L: 10.34%
+
+96th dialog와 96th summary의 유사도:
+Semantic 유사도: 77.85%
+ROUGE-1: 4.51%
+ROUGE-2: 1.31%
+ROUGE-L: 4.51%
+
+97th dialog와 97th summary의 유사도:
+Semantic 유사도: 83.07%
+ROUGE-1: 5.04%
+ROUGE-2: 1.40%
+ROUGE-L: 5.04%
+
+98th dialog와 98th summary의 유사도:
+Semantic 유사도: 89.50%
+ROUGE-1: 13.68%
+ROUGE-2: 0.00%
+ROUGE-L: 10.26%
+
+99th dialog와 99th summary의 유사도:
+Semantic 유사도: 57.21%
+ROUGE-1: 6.59%
+ROUGE-2: 0.00%
+ROUGE-L: 6.59%
+
+100th dialog와 100th summary의 유사도:
+Semantic 유사도: 72.32%
+ROUGE-1: 2.90%
+ROUGE-2: 0.00%
+ROUGE-L: 2.90%
+
+101th dialog와 101th summary의 유사도:
+Semantic 유사도: 78.77%
+ROUGE-1: 5.10%
+ROUGE-2: 0.00%
+ROUGE-L: 5.10%
+
+102th dialog와 102th summary의 유사도:
+Semantic 유사도: 91.35%
+ROUGE-1: 16.39%
+ROUGE-2: 1.36%
+ROUGE-L: 16.39%
+
+103th dialog와 103th summary의 유사도:
+Semantic 유사도: 77.98%
+ROUGE-1: 3.77%
+ROUGE-2: 0.00%
+ROUGE-L: 3.77%
+
+104th dialog와 104th summary의 유사도:
+Semantic 유사도: 77.20%
+ROUGE-1: 2.86%
+ROUGE-2: 0.00%
+ROUGE-L: 2.86%
+
+105th dialog와 105th summary의 유사도:
+Semantic 유사도: 93.40%
+ROUGE-1: 3.60%
+ROUGE-2: 0.00%
+ROUGE-L: 3.60%
+
+106th dialog와 106th summary의 유사도:
+Semantic 유사도: 86.35%
+ROUGE-1: 5.08%
+ROUGE-2: 0.00%
+ROUGE-L: 5.08%
+
+107th dialog와 107th summary의 유사도:
+Semantic 유사도: 82.17%
+ROUGE-1: 5.17%
+ROUGE-2: 0.00%
+ROUGE-L: 5.17%
+
+108th dialog와 108th summary의 유사도:
+Semantic 유사도: 71.91%
+ROUGE-1: 1.41%
+ROUGE-2: 0.00%
+ROUGE-L: 1.41%
+
+109th dialog와 109th summary의 유사도:
+Semantic 유사도: 69.81%
+ROUGE-1: 12.24%
+ROUGE-2: 7.14%
+ROUGE-L: 12.24%
+
+110th dialog와 110th summary의 유사도:
+Semantic 유사도: 77.50%
+ROUGE-1: 13.19%
+ROUGE-2: 1.87%
+ROUGE-L: 10.99%
+
+111th dialog와 111th summary의 유사도:
+Semantic 유사도: 33.88%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+112th dialog와 112th summary의 유사도:
+Semantic 유사도: 81.91%
+ROUGE-1: 3.28%
+ROUGE-2: 0.00%
+ROUGE-L: 3.28%
+
+113th dialog와 113th summary의 유사도:
+Semantic 유사도: 79.90%
+ROUGE-1: 3.33%
+ROUGE-2: 0.00%
+ROUGE-L: 3.33%
+
+114th dialog와 114th summary의 유사도:
+Semantic 유사도: 89.32%
+ROUGE-1: 7.48%
+ROUGE-2: 0.00%
+ROUGE-L: 7.48%
+
+115th dialog와 115th summary의 유사도:
+Semantic 유사도: 75.81%
+ROUGE-1: 5.84%
+ROUGE-2: 0.00%
+ROUGE-L: 5.84%
+
+116th dialog와 116th summary의 유사도:
+Semantic 유사도: 78.51%
+ROUGE-1: 10.42%
+ROUGE-2: 3.54%
+ROUGE-L: 10.42%
+
+117th dialog와 117th summary의 유사도:
+Semantic 유사도: 79.36%
+ROUGE-1: 10.60%
+ROUGE-2: 5.46%
+ROUGE-L: 10.60%
+
+118th dialog와 118th summary의 유사도:
+Semantic 유사도: 73.07%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+119th dialog와 119th summary의 유사도:
+Semantic 유사도: 81.20%
+ROUGE-1: 1.69%
+ROUGE-2: 0.00%
+ROUGE-L: 1.69%
+
+120th dialog와 120th summary의 유사도:
+Semantic 유사도: 75.46%
+ROUGE-1: 3.68%
+ROUGE-2: 0.00%
+ROUGE-L: 3.68%
+
+121th dialog와 121th summary의 유사도:
+Semantic 유사도: 63.99%
+ROUGE-1: 3.85%
+ROUGE-2: 1.61%
+ROUGE-L: 3.85%
+
+122th dialog와 122th summary의 유사도:
+Semantic 유사도: 75.48%
+ROUGE-1: 6.25%
+ROUGE-2: 1.33%
+ROUGE-L: 6.25%
+
+123th dialog와 123th summary의 유사도:
+Semantic 유사도: 86.94%
+ROUGE-1: 11.92%
+ROUGE-2: 6.59%
+ROUGE-L: 11.92%
+
+124th dialog와 124th summary의 유사도:
+Semantic 유사도: 72.35%
+ROUGE-1: 11.57%
+ROUGE-2: 4.29%
+ROUGE-L: 11.57%
+
+125th dialog와 125th summary의 유사도:
+Semantic 유사도: 84.93%
+ROUGE-1: 5.45%
+ROUGE-2: 0.00%
+ROUGE-L: 5.45%
+
+126th dialog와 126th summary의 유사도:
+Semantic 유사도: 80.94%
+ROUGE-1: 8.25%
+ROUGE-2: 0.00%
+ROUGE-L: 8.25%
+
+127th dialog와 127th summary의 유사도:
+Semantic 유사도: 70.77%
+ROUGE-1: 5.93%
+ROUGE-2: 1.14%
+ROUGE-L: 5.93%
+
+128th dialog와 128th summary의 유사도:
+Semantic 유사도: 82.02%
+ROUGE-1: 2.11%
+ROUGE-2: 0.00%
+ROUGE-L: 2.11%
+
+129th dialog와 129th summary의 유사도:
+Semantic 유사도: 42.33%
+ROUGE-1: 5.56%
+ROUGE-2: 0.00%
+ROUGE-L: 5.56%
+
+130th dialog와 130th summary의 유사도:
+Semantic 유사도: 78.14%
+ROUGE-1: 7.41%
+ROUGE-2: 0.00%
+ROUGE-L: 7.41%
+
+131th dialog와 131th summary의 유사도:
+Semantic 유사도: 81.22%
+ROUGE-1: 2.00%
+ROUGE-2: 0.00%
+ROUGE-L: 2.00%
+
+132th dialog와 132th summary의 유사도:
+Semantic 유사도: 83.74%
+ROUGE-1: 5.17%
+ROUGE-2: 0.00%
+ROUGE-L: 5.17%
+
+133th dialog와 133th summary의 유사도:
+Semantic 유사도: 72.11%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+134th dialog와 134th summary의 유사도:
+Semantic 유사도: 57.20%
+ROUGE-1: 3.31%
+ROUGE-2: 0.00%
+ROUGE-L: 3.31%
+
+135th dialog와 135th summary의 유사도:
+Semantic 유사도: 72.27%
+ROUGE-1: 6.45%
+ROUGE-2: 1.32%
+ROUGE-L: 6.45%
+
+136th dialog와 136th summary의 유사도:
+Semantic 유사도: 85.24%
+ROUGE-1: 22.07%
+ROUGE-2: 4.28%
+ROUGE-L: 22.07%
+
+137th dialog와 137th summary의 유사도:
+Semantic 유사도: 74.17%
+ROUGE-1: 1.90%
+ROUGE-2: 0.00%
+ROUGE-L: 1.90%
+
+138th dialog와 138th summary의 유사도:
+Semantic 유사도: 62.78%
+ROUGE-1: 5.97%
+ROUGE-2: 0.00%
+ROUGE-L: 5.97%
+
+139th dialog와 139th summary의 유사도:
+Semantic 유사도: 61.85%
+ROUGE-1: 4.32%
+ROUGE-2: 0.00%
+ROUGE-L: 2.88%
+
+140th dialog와 140th summary의 유사도:
+Semantic 유사도: 49.91%
+ROUGE-1: 1.79%
+ROUGE-2: 0.00%
+ROUGE-L: 1.79%
+
+141th dialog와 141th summary의 유사도:
+Semantic 유사도: 79.92%
+ROUGE-1: 9.66%
+ROUGE-2: 0.00%
+ROUGE-L: 8.28%
+
+142th dialog와 142th summary의 유사도:
+Semantic 유사도: 77.60%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+143th dialog와 143th summary의 유사도:
+Semantic 유사도: 87.62%
+ROUGE-1: 14.67%
+ROUGE-2: 1.20%
+ROUGE-L: 13.33%
+
+144th dialog와 144th summary의 유사도:
+Semantic 유사도: 66.36%
+ROUGE-1: 4.44%
+ROUGE-2: 0.00%
+ROUGE-L: 4.44%
+
+145th dialog와 145th summary의 유사도:
+Semantic 유사도: 83.06%
+ROUGE-1: 3.33%
+ROUGE-2: 0.00%
+ROUGE-L: 1.67%
+
+146th dialog와 146th summary의 유사도:
+Semantic 유사도: 58.70%
+ROUGE-1: 8.00%
+ROUGE-2: 0.00%
+ROUGE-L: 8.00%
+
+147th dialog와 147th summary의 유사도:
+Semantic 유사도: 79.83%
+ROUGE-1: 4.51%
+ROUGE-2: 0.00%
+ROUGE-L: 4.51%
+
+148th dialog와 148th summary의 유사도:
+Semantic 유사도: 76.06%
+ROUGE-1: 6.20%
+ROUGE-2: 0.00%
+ROUGE-L: 6.20%
+
+149th dialog와 149th summary의 유사도:
+Semantic 유사도: 51.04%
+ROUGE-1: 3.85%
+ROUGE-2: 0.00%
+ROUGE-L: 3.85%
+
+150th dialog와 150th summary의 유사도:
+Semantic 유사도: 27.96%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+151th dialog와 151th summary의 유사도:
+Semantic 유사도: 90.07%
+ROUGE-1: 7.25%
+ROUGE-2: 0.00%
+ROUGE-L: 4.35%
+
+152th dialog와 152th summary의 유사도:
+Semantic 유사도: 81.63%
+ROUGE-1: 7.84%
+ROUGE-2: 1.67%
+ROUGE-L: 7.84%
+
+153th dialog와 153th summary의 유사도:
+Semantic 유사도: 90.90%
+ROUGE-1: 11.96%
+ROUGE-2: 2.69%
+ROUGE-L: 11.96%
+
+154th dialog와 154th summary의 유사도:
+Semantic 유사도: 74.81%
+ROUGE-1: 4.23%
+ROUGE-2: 0.00%
+ROUGE-L: 2.82%
+
+155th dialog와 155th summary의 유사도:
+Semantic 유사도: 95.08%
+ROUGE-1: 26.90%
+ROUGE-2: 12.96%
+ROUGE-L: 25.73%
+
+156th dialog와 156th summary의 유사도:
+Semantic 유사도: 84.53%
+ROUGE-1: 1.50%
+ROUGE-2: 0.00%
+ROUGE-L: 1.50%
+
+157th dialog와 157th summary의 유사도:
+Semantic 유사도: 72.04%
+ROUGE-1: 1.67%
+ROUGE-2: 0.00%
+ROUGE-L: 1.67%
+
+158th dialog와 158th summary의 유사도:
+Semantic 유사도: 78.74%
+ROUGE-1: 3.33%
+ROUGE-2: 0.00%
+ROUGE-L: 3.33%
+
+159th dialog와 159th summary의 유사도:
+Semantic 유사도: 85.26%
+ROUGE-1: 5.26%
+ROUGE-2: 0.00%
+ROUGE-L: 5.26%
+
+160th dialog와 160th summary의 유사도:
+Semantic 유사도: 55.60%
+ROUGE-1: 6.76%
+ROUGE-2: 1.09%
+ROUGE-L: 6.76%
+
+161th dialog와 161th summary의 유사도:
+Semantic 유사도: 73.28%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+162th dialog와 162th summary의 유사도:
+Semantic 유사도: 51.90%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+163th dialog와 163th summary의 유사도:
+Semantic 유사도: 67.95%
+ROUGE-1: 4.88%
+ROUGE-2: 0.00%
+ROUGE-L: 4.88%
+
+164th dialog와 164th summary의 유사도:
+Semantic 유사도: 57.91%
+ROUGE-1: 1.52%
+ROUGE-2: 0.00%
+ROUGE-L: 1.52%
+
+165th dialog와 165th summary의 유사도:
+Semantic 유사도: 58.13%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+166th dialog와 166th summary의 유사도:
+Semantic 유사도: 77.21%
+ROUGE-1: 10.34%
+ROUGE-2: 1.44%
+ROUGE-L: 10.34%
+
+167th dialog와 167th summary의 유사도:
+Semantic 유사도: 70.90%
+ROUGE-1: 3.67%
+ROUGE-2: 0.00%
+ROUGE-L: 3.67%
+
+168th dialog와 168th summary의 유사도:
+Semantic 유사도: 70.49%
+ROUGE-1: 3.67%
+ROUGE-2: 0.00%
+ROUGE-L: 3.67%
+
+169th dialog와 169th summary의 유사도:
+Semantic 유사도: 78.41%
+ROUGE-1: 1.64%
+ROUGE-2: 0.00%
+ROUGE-L: 1.64%
+
+170th dialog와 170th summary의 유사도:
+Semantic 유사도: 78.63%
+ROUGE-1: 5.56%
+ROUGE-2: 0.00%
+ROUGE-L: 5.56%
+
+171th dialog와 171th summary의 유사도:
+Semantic 유사도: 58.37%
+ROUGE-1: 3.70%
+ROUGE-2: 0.00%
+ROUGE-L: 3.70%
+
+172th dialog와 172th summary의 유사도:
+Semantic 유사도: 82.28%
+ROUGE-1: 1.56%
+ROUGE-2: 0.00%
+ROUGE-L: 1.56%
+
+173th dialog와 173th summary의 유사도:
+Semantic 유사도: 93.55%
+ROUGE-1: 8.60%
+ROUGE-2: 0.00%
+ROUGE-L: 7.53%
+
+174th dialog와 174th summary의 유사도:
+Semantic 유사도: 78.11%
+ROUGE-1: 1.98%
+ROUGE-2: 0.00%
+ROUGE-L: 1.98%
+
+175th dialog와 175th summary의 유사도:
+Semantic 유사도: 88.29%
+ROUGE-1: 8.64%
+ROUGE-2: 3.86%
+ROUGE-L: 8.64%
+
+176th dialog와 176th summary의 유사도:
+Semantic 유사도: 75.40%
+ROUGE-1: 10.53%
+ROUGE-2: 2.34%
+ROUGE-L: 10.53%
+
+177th dialog와 177th summary의 유사도:
+Semantic 유사도: 58.07%
+ROUGE-1: 3.85%
+ROUGE-2: 0.00%
+ROUGE-L: 3.85%
+
+178th dialog와 178th summary의 유사도:
+Semantic 유사도: 79.68%
+ROUGE-1: 2.16%
+ROUGE-2: 0.00%
+ROUGE-L: 2.16%
+
+179th dialog와 179th summary의 유사도:
+Semantic 유사도: 79.39%
+ROUGE-1: 2.35%
+ROUGE-2: 0.00%
+ROUGE-L: 2.35%
+
+180th dialog와 180th summary의 유사도:
+Semantic 유사도: 76.94%
+ROUGE-1: 10.34%
+ROUGE-2: 1.00%
+ROUGE-L: 10.34%
+
+181th dialog와 181th summary의 유사도:
+Semantic 유사도: 89.23%
+ROUGE-1: 4.30%
+ROUGE-2: 0.00%
+ROUGE-L: 4.30%
+
+182th dialog와 182th summary의 유사도:
+Semantic 유사도: 72.73%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+183th dialog와 183th summary의 유사도:
+Semantic 유사도: 88.64%
+ROUGE-1: 5.93%
+ROUGE-2: 1.27%
+ROUGE-L: 5.93%
+
+184th dialog와 184th summary의 유사도:
+Semantic 유사도: 94.76%
+ROUGE-1: 9.15%
+ROUGE-2: 0.00%
+ROUGE-L: 9.15%
+
+185th dialog와 185th summary의 유사도:
+Semantic 유사도: 63.67%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+186th dialog와 186th summary의 유사도:
+Semantic 유사도: 80.34%
+ROUGE-1: 3.15%
+ROUGE-2: 0.00%
+ROUGE-L: 3.15%
+
+187th dialog와 187th summary의 유사도:
+Semantic 유사도: 79.82%
+ROUGE-1: 19.35%
+ROUGE-2: 8.70%
+ROUGE-L: 19.35%
+
+188th dialog와 188th summary의 유사도:
+Semantic 유사도: 74.36%
+ROUGE-1: 6.25%
+ROUGE-2: 0.00%
+ROUGE-L: 4.17%
+
+189th dialog와 189th summary의 유사도:
+Semantic 유사도: 91.79%
+ROUGE-1: 3.81%
+ROUGE-2: 0.00%
+ROUGE-L: 3.81%
+
+190th dialog와 190th summary의 유사도:
+Semantic 유사도: 62.31%
+ROUGE-1: 3.36%
+ROUGE-2: 0.00%
+ROUGE-L: 3.36%
+
+191th dialog와 191th summary의 유사도:
+Semantic 유사도: 90.21%
+ROUGE-1: 2.70%
+ROUGE-2: 0.00%
+ROUGE-L: 2.70%
+
+192th dialog와 192th summary의 유사도:
+Semantic 유사도: 53.98%
+ROUGE-1: 1.23%
+ROUGE-2: 0.00%
+ROUGE-L: 1.23%
+
+193th dialog와 193th summary의 유사도:
+Semantic 유사도: 93.70%
+ROUGE-1: 16.78%
+ROUGE-2: 6.06%
+ROUGE-L: 16.78%
+
+194th dialog와 194th summary의 유사도:
+Semantic 유사도: 90.60%
+ROUGE-1: 9.17%
+ROUGE-2: 3.17%
+ROUGE-L: 9.17%
+
+195th dialog와 195th summary의 유사도:
+Semantic 유사도: 61.57%
+ROUGE-1: 7.64%
+ROUGE-2: 0.00%
+ROUGE-L: 7.64%
+
+196th dialog와 196th summary의 유사도:
+Semantic 유사도: 64.41%
+ROUGE-1: 1.17%
+ROUGE-2: 0.00%
+ROUGE-L: 1.17%
+
+197th dialog와 197th summary의 유사도:
+Semantic 유사도: 81.95%
+ROUGE-1: 9.62%
+ROUGE-2: 1.63%
+ROUGE-L: 9.62%
+
+198th dialog와 198th summary의 유사도:
+Semantic 유사도: 61.44%
+ROUGE-1: 1.85%
+ROUGE-2: 0.00%
+ROUGE-L: 1.85%
+
+199th dialog와 199th summary의 유사도:
+Semantic 유사도: 84.06%
+ROUGE-1: 8.12%
+ROUGE-2: 2.56%
+ROUGE-L: 8.12%
+
+200th dialog와 200th summary의 유사도:
+Semantic 유사도: 68.30%
+ROUGE-1: 1.89%
+ROUGE-2: 0.00%
+ROUGE-L: 1.89%
+
+201th dialog와 201th summary의 유사도:
+Semantic 유사도: 81.48%
+ROUGE-1: 18.05%
+ROUGE-2: 8.92%
+ROUGE-L: 18.05%
+
+202th dialog와 202th summary의 유사도:
+Semantic 유사도: 73.31%
+ROUGE-1: 13.21%
+ROUGE-2: 0.00%
+ROUGE-L: 13.21%
+
+203th dialog와 203th summary의 유사도:
+Semantic 유사도: 76.38%
+ROUGE-1: 4.80%
+ROUGE-2: 1.43%
+ROUGE-L: 4.80%
+
+204th dialog와 204th summary의 유사도:
+Semantic 유사도: 77.43%
+ROUGE-1: 7.69%
+ROUGE-2: 1.64%
+ROUGE-L: 7.69%
+
+205th dialog와 205th summary의 유사도:
+Semantic 유사도: 76.99%
+ROUGE-1: 3.85%
+ROUGE-2: 1.67%
+ROUGE-L: 3.85%
+
+206th dialog와 206th summary의 유사도:
+Semantic 유사도: 80.97%
+ROUGE-1: 11.94%
+ROUGE-2: 0.00%
+ROUGE-L: 11.94%
+
+207th dialog와 207th summary의 유사도:
+Semantic 유사도: 82.30%
+ROUGE-1: 5.04%
+ROUGE-2: 1.48%
+ROUGE-L: 5.04%
+
+208th dialog와 208th summary의 유사도:
+Semantic 유사도: 74.51%
+ROUGE-1: 3.77%
+ROUGE-2: 0.00%
+ROUGE-L: 3.77%
+
+209th dialog와 209th summary의 유사도:
+Semantic 유사도: 84.53%
+ROUGE-1: 7.59%
+ROUGE-2: 0.96%
+ROUGE-L: 6.33%
+
+210th dialog와 210th summary의 유사도:
+Semantic 유사도: 58.11%
+ROUGE-1: 1.57%
+ROUGE-2: 0.00%
+ROUGE-L: 1.57%
+
+211th dialog와 211th summary의 유사도:
+Semantic 유사도: 89.16%
+ROUGE-1: 4.41%
+ROUGE-2: 1.30%
+ROUGE-L: 4.41%
+
+212th dialog와 212th summary의 유사도:
+Semantic 유사도: 81.39%
+ROUGE-1: 22.67%
+ROUGE-2: 7.45%
+ROUGE-L: 21.33%
+
+213th dialog와 213th summary의 유사도:
+Semantic 유사도: 65.89%
+ROUGE-1: 1.72%
+ROUGE-2: 0.00%
+ROUGE-L: 1.72%
+
+214th dialog와 214th summary의 유사도:
+Semantic 유사도: 86.59%
+ROUGE-1: 16.18%
+ROUGE-2: 5.26%
+ROUGE-L: 14.71%
+
+215th dialog와 215th summary의 유사도:
+Semantic 유사도: 48.14%
+ROUGE-1: 2.94%
+ROUGE-2: 0.00%
+ROUGE-L: 2.94%
+
+216th dialog와 216th summary의 유사도:
+Semantic 유사도: 89.16%
+ROUGE-1: 3.02%
+ROUGE-2: 0.00%
+ROUGE-L: 3.02%
+
+217th dialog와 217th summary의 유사도:
+Semantic 유사도: 78.38%
+ROUGE-1: 6.72%
+ROUGE-2: 2.68%
+ROUGE-L: 6.72%
+
+218th dialog와 218th summary의 유사도:
+Semantic 유사도: 67.81%
+ROUGE-1: 2.88%
+ROUGE-2: 0.00%
+ROUGE-L: 2.88%
+
+219th dialog와 219th summary의 유사도:
+Semantic 유사도: 75.15%
+ROUGE-1: 13.46%
+ROUGE-2: 3.36%
+ROUGE-L: 13.46%
+
+220th dialog와 220th summary의 유사도:
+Semantic 유사도: 70.22%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+221th dialog와 221th summary의 유사도:
+Semantic 유사도: 72.28%
+ROUGE-1: 2.00%
+ROUGE-2: 0.00%
+ROUGE-L: 2.00%
+
+222th dialog와 222th summary의 유사도:
+Semantic 유사도: 71.19%
+ROUGE-1: 5.61%
+ROUGE-2: 0.00%
+ROUGE-L: 5.61%
+
+223th dialog와 223th summary의 유사도:
+Semantic 유사도: 89.56%
+ROUGE-1: 2.96%
+ROUGE-2: 0.00%
+ROUGE-L: 2.96%
+
+224th dialog와 224th summary의 유사도:
+Semantic 유사도: 41.97%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+225th dialog와 225th summary의 유사도:
+Semantic 유사도: 88.81%
+ROUGE-1: 3.45%
+ROUGE-2: 0.00%
+ROUGE-L: 3.45%
+
+226th dialog와 226th summary의 유사도:
+Semantic 유사도: 81.61%
+ROUGE-1: 1.39%
+ROUGE-2: 0.00%
+ROUGE-L: 1.39%
+
+227th dialog와 227th summary의 유사도:
+Semantic 유사도: 76.25%
+ROUGE-1: 3.67%
+ROUGE-2: 1.46%
+ROUGE-L: 3.67%
+
+228th dialog와 228th summary의 유사도:
+Semantic 유사도: 59.04%
+ROUGE-1: 1.79%
+ROUGE-2: 0.00%
+ROUGE-L: 1.79%
+
+229th dialog와 229th summary의 유사도:
+Semantic 유사도: 76.72%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+230th dialog와 230th summary의 유사도:
+Semantic 유사도: 80.76%
+ROUGE-1: 2.56%
+ROUGE-2: 0.00%
+ROUGE-L: 2.56%
+
+231th dialog와 231th summary의 유사도:
+Semantic 유사도: 82.23%
+ROUGE-1: 1.35%
+ROUGE-2: 0.00%
+ROUGE-L: 1.35%
+
+232th dialog와 232th summary의 유사도:
+Semantic 유사도: 63.09%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+233th dialog와 233th summary의 유사도:
+Semantic 유사도: 86.96%
+ROUGE-1: 5.06%
+ROUGE-2: 0.00%
+ROUGE-L: 5.06%
+
+234th dialog와 234th summary의 유사도:
+Semantic 유사도: 77.35%
+ROUGE-1: 4.92%
+ROUGE-2: 1.33%
+ROUGE-L: 4.92%
+
+235th dialog와 235th summary의 유사도:
+Semantic 유사도: 84.63%
+ROUGE-1: 11.11%
+ROUGE-2: 3.39%
+ROUGE-L: 11.11%
+
+236th dialog와 236th summary의 유사도:
+Semantic 유사도: 47.54%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+237th dialog와 237th summary의 유사도:
+Semantic 유사도: 76.57%
+ROUGE-1: 5.13%
+ROUGE-2: 0.00%
+ROUGE-L: 5.13%
+
+238th dialog와 238th summary의 유사도:
+Semantic 유사도: 80.19%
+ROUGE-1: 1.85%
+ROUGE-2: 0.00%
+ROUGE-L: 1.85%
+
+239th dialog와 239th summary의 유사도:
+Semantic 유사도: 82.83%
+ROUGE-1: 3.80%
+ROUGE-2: 0.00%
+ROUGE-L: 3.80%
+
+240th dialog와 240th summary의 유사도:
+Semantic 유사도: 84.22%
+ROUGE-1: 5.97%
+ROUGE-2: 0.00%
+ROUGE-L: 4.48%
+
+241th dialog와 241th summary의 유사도:
+Semantic 유사도: 68.46%
+ROUGE-1: 1.56%
+ROUGE-2: 0.00%
+ROUGE-L: 1.56%
+
+242th dialog와 242th summary의 유사도:
+Semantic 유사도: 83.41%
+ROUGE-1: 16.67%
+ROUGE-2: 5.88%
+ROUGE-L: 15.48%
+
+243th dialog와 243th summary의 유사도:
+Semantic 유사도: 63.81%
+ROUGE-1: 1.64%
+ROUGE-2: 0.00%
+ROUGE-L: 1.64%
+
+244th dialog와 244th summary의 유사도:
+Semantic 유사도: 78.57%
+ROUGE-1: 10.19%
+ROUGE-2: 3.37%
+ROUGE-L: 10.19%
+
+245th dialog와 245th summary의 유사도:
+Semantic 유사도: 58.32%
+ROUGE-1: 2.16%
+ROUGE-2: 0.00%
+ROUGE-L: 2.16%
+
+246th dialog와 246th summary의 유사도:
+Semantic 유사도: 78.51%
+ROUGE-1: 1.46%
+ROUGE-2: 0.00%
+ROUGE-L: 1.46%
+
+247th dialog와 247th summary의 유사도:
+Semantic 유사도: 69.87%
+ROUGE-1: 1.74%
+ROUGE-2: 0.00%
+ROUGE-L: 1.74%
+
+248th dialog와 248th summary의 유사도:
+Semantic 유사도: 56.94%
+ROUGE-1: 1.90%
+ROUGE-2: 0.00%
+ROUGE-L: 1.90%
+
+249th dialog와 249th summary의 유사도:
+Semantic 유사도: 74.10%
+ROUGE-1: 13.33%
+ROUGE-2: 2.45%
+ROUGE-L: 13.33%
+
+250th dialog와 250th summary의 유사도:
+Semantic 유사도: 73.43%
+ROUGE-1: 7.27%
+ROUGE-2: 3.15%
+ROUGE-L: 7.27%
+
+251th dialog와 251th summary의 유사도:
+Semantic 유사도: 72.13%
+ROUGE-1: 24.56%
+ROUGE-2: 7.46%
+ROUGE-L: 24.56%
+
+252th dialog와 252th summary의 유사도:
+Semantic 유사도: 85.31%
+ROUGE-1: 8.42%
+ROUGE-2: 0.00%
+ROUGE-L: 8.42%
+
+253th dialog와 253th summary의 유사도:
+Semantic 유사도: 74.62%
+ROUGE-1: 10.62%
+ROUGE-2: 2.92%
+ROUGE-L: 10.62%
+
+254th dialog와 254th summary의 유사도:
+Semantic 유사도: 65.58%
+ROUGE-1: 3.28%
+ROUGE-2: 0.00%
+ROUGE-L: 3.28%
+
+255th dialog와 255th summary의 유사도:
+Semantic 유사도: 70.37%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+256th dialog와 256th summary의 유사도:
+Semantic 유사도: 79.66%
+ROUGE-1: 8.06%
+ROUGE-2: 0.00%
+ROUGE-L: 6.45%
+
+257th dialog와 257th summary의 유사도:
+Semantic 유사도: 76.78%
+ROUGE-1: 4.14%
+ROUGE-2: 0.00%
+ROUGE-L: 4.14%
+
+258th dialog와 258th summary의 유사도:
+Semantic 유사도: 78.68%
+ROUGE-1: 5.33%
+ROUGE-2: 0.00%
+ROUGE-L: 5.33%
+
+259th dialog와 259th summary의 유사도:
+Semantic 유사도: 86.69%
+ROUGE-1: 14.88%
+ROUGE-2: 2.72%
+ROUGE-L: 13.22%
+
+260th dialog와 260th summary의 유사도:
+Semantic 유사도: 76.27%
+ROUGE-1: 5.88%
+ROUGE-2: 1.69%
+ROUGE-L: 5.88%
+
+261th dialog와 261th summary의 유사도:
+Semantic 유사도: 75.81%
+ROUGE-1: 5.97%
+ROUGE-2: 0.00%
+ROUGE-L: 5.97%
+
+262th dialog와 262th summary의 유사도:
+Semantic 유사도: 70.88%
+ROUGE-1: 1.56%
+ROUGE-2: 0.00%
+ROUGE-L: 1.56%
+
+263th dialog와 263th summary의 유사도:
+Semantic 유사도: 88.83%
+ROUGE-1: 6.20%
+ROUGE-2: 1.29%
+ROUGE-L: 6.20%
+
+264th dialog와 264th summary의 유사도:
+Semantic 유사도: 63.16%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+265th dialog와 265th summary의 유사도:
+Semantic 유사도: 81.97%
+ROUGE-1: 4.94%
+ROUGE-2: 0.00%
+ROUGE-L: 4.94%
+
+266th dialog와 266th summary의 유사도:
+Semantic 유사도: 57.55%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+267th dialog와 267th summary의 유사도:
+Semantic 유사도: 53.97%
+ROUGE-1: 5.94%
+ROUGE-2: 0.00%
+ROUGE-L: 5.94%
+
+268th dialog와 268th summary의 유사도:
+Semantic 유사도: 82.12%
+ROUGE-1: 1.69%
+ROUGE-2: 0.00%
+ROUGE-L: 1.69%
+
+269th dialog와 269th summary의 유사도:
+Semantic 유사도: 80.21%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+270th dialog와 270th summary의 유사도:
+Semantic 유사도: 89.56%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+271th dialog와 271th summary의 유사도:
+Semantic 유사도: 52.19%
+ROUGE-1: 4.17%
+ROUGE-2: 0.00%
+ROUGE-L: 2.08%
+
+272th dialog와 272th summary의 유사도:
+Semantic 유사도: 93.71%
+ROUGE-1: 11.59%
+ROUGE-2: 3.33%
+ROUGE-L: 11.59%
+
+273th dialog와 273th summary의 유사도:
+Semantic 유사도: 67.17%
+ROUGE-1: 11.18%
+ROUGE-2: 0.94%
+ROUGE-L: 11.18%
+
+274th dialog와 274th summary의 유사도:
+Semantic 유사도: 77.30%
+ROUGE-1: 11.35%
+ROUGE-2: 1.06%
+ROUGE-L: 9.93%
+
+275th dialog와 275th summary의 유사도:
+Semantic 유사도: 86.85%
+ROUGE-1: 22.82%
+ROUGE-2: 8.33%
+ROUGE-L: 22.82%
+
+276th dialog와 276th summary의 유사도:
+Semantic 유사도: 67.46%
+ROUGE-1: 0.00%
+ROUGE-2: 0.00%
+ROUGE-L: 0.00%
+
+277th dialog와 277th summary의 유사도:
+Semantic 유사도: 58.13%
+ROUGE-1: 12.31%
+ROUGE-2: 2.38%
+ROUGE-L: 12.31%
+
+278th dialog와 278th summary의 유사도:
+Semantic 유사도: 84.84%
+ROUGE-1: 3.90%
+ROUGE-2: 0.00%
+ROUGE-L: 3.90%
+
+279th dialog와 279th summary의 유사도:
+Semantic 유사도: 77.37%
+ROUGE-1: 4.08%
+ROUGE-2: 0.00%
+ROUGE-L: 2.72%
+
+280th dialog와 280th summary의 유사도:
+Semantic 유사도: 70.19%
+ROUGE-1: 6.52%
+ROUGE-2: 0.00%
+ROUGE-L: 4.35%
+
+281th dialog와 281th summary의 유사도:
+Semantic 유사도: 83.58%
+ROUGE-1: 11.19%
+ROUGE-2: 0.00%
+ROUGE-L: 11.19%
+
+282th dialog와 282th summary의 유사도:
+Semantic 유사도: 82.11%
+ROUGE-1: 7.84%
+ROUGE-2: 0.00%
+ROUGE-L: 7.84%
+
+283th dialog와 283th summary의 유사도:
+Semantic 유사도: 90.51%
+ROUGE-1: 28.57%
+ROUGE-2: 12.68%
+ROUGE-L: 26.89%
+
+284th dialog와 284th summary의 유사도:
+Semantic 유사도: 70.61%
+ROUGE-1: 4.30%
+ROUGE-2: 0.00%
+ROUGE-L: 4.30%
+
+285th dialog와 285th summary의 유사도:
+Semantic 유사도: 83.10%
+ROUGE-1: 7.59%
+ROUGE-2: 1.98%
+ROUGE-L: 7.59%
+
+286th dialog와 286th summary의 유사도:
+Semantic 유사도: 83.72%
+ROUGE-1: 6.52%
+ROUGE-2: 0.00%
+ROUGE-L: 6.52%
+
+287th dialog와 287th summary의 유사도:
+Semantic 유사도: 92.16%
+ROUGE-1: 11.59%
+ROUGE-2: 5.88%
+ROUGE-L: 11.59%
+
+288th dialog와 288th summary의 유사도:
+Semantic 유사도: 66.50%
+ROUGE-1: 9.92%
+ROUGE-2: 2.78%
+ROUGE-L: 9.92%
+
+289th dialog와 289th summary의 유사도:
+Semantic 유사도: 87.98%
+ROUGE-1: 8.06%
+ROUGE-2: 2.60%
+ROUGE-L: 8.06%
+
+290th dialog와 290th summary의 유사도:
+Semantic 유사도: 72.84%
+ROUGE-1: 3.74%
+ROUGE-2: 0.00%
+ROUGE-L: 3.74%
+
+291th dialog와 291th summary의 유사도:
+Semantic 유사도: 80.18%
+ROUGE-1: 5.88%
+ROUGE-2: 1.23%
+ROUGE-L: 5.88%
+
+292th dialog와 292th summary의 유사도:
+Semantic 유사도: 70.85%
+ROUGE-1: 3.25%
+ROUGE-2: 0.00%
+ROUGE-L: 3.25%
+
+293th dialog와 293th summary의 유사도:
+Semantic 유사도: 59.29%
+ROUGE-1: 10.14%
+ROUGE-2: 1.20%
+ROUGE-L: 8.70%
+
+294th dialog와 294th summary의 유사도:
+Semantic 유사도: 77.19%
+ROUGE-1: 1.61%
+ROUGE-2: 0.00%
+ROUGE-L: 1.61%
+
+295th dialog와 295th summary의 유사도:
+Semantic 유사도: 76.69%
+ROUGE-1: 15.93%
+ROUGE-2: 7.89%
+ROUGE-L: 15.93%
+
+296th dialog와 296th summary의 유사도:
+Semantic 유사도: 78.80%
+ROUGE-1: 1.71%
+ROUGE-2: 0.00%
+ROUGE-L: 1.71%
+
+297th dialog와 297th summary의 유사도:
+Semantic 유사도: 87.82%
+ROUGE-1: 8.82%
+ROUGE-2: 1.20%
+ROUGE-L: 7.35%
+
+298th dialog와 298th summary의 유사도:
+Semantic 유사도: 48.96%
+ROUGE-1: 2.96%
+ROUGE-2: 0.00%
+ROUGE-L: 2.96%
+
+299th dialog와 299th summary의 유사도:
+Semantic 유사도: 72.48%
+ROUGE-1: 3.25%
+ROUGE-2: 0.00%
+ROUGE-L: 3.25%
+
+300th dialog와 300th summary의 유사도:
+Semantic 유사도: 90.49%
+ROUGE-1: 18.44%
+ROUGE-2: 4.65%
+ROUGE-L: 18.44%
+
+
+전체 대화와 요약문의 평균 유사도:
+Semantic 유사도: 75.07%
+ROUGE-1: 6.21%
+ROUGE-2: 1.13%
+ROUGE-L: 6.01%
