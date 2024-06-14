@@ -3,7 +3,7 @@ import requests
 # API 키와 Secret Key를 설정합니다.
 client_id = "qssctpld4w"  # 발급받은 Client ID를 입력하세요.
 # 발급받은 Client Secret을 입력하세요.
-client_secret = "F92eXdw1rjU2iujcNZaiyr0bkgfadYSzEdMYCPkC"
+client_secret = ""
 
 # 분석하고 싶은 텍스트를 설정합니다.
 texts = ["아침에 일어나서 평소처럼 출근했고, 업무를 처리하면서 하루를 보냈다. 점심시간에는 동료들과 함께 식당에서 식사를 했다. 특별히 기억에 남는 일은 없었지만, 평화롭고 안정적인 하루였다. 저녁에는 집에서 책을 조금 읽고 일찍 잠자리에 들었다. 내일도 이렇게 평온한 하루가 되었으면 좋겠다.",
