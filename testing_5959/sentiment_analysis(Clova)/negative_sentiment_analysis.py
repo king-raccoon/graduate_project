@@ -1,7 +1,7 @@
 import requests
 
 # API 키와 Secret Key를 설정합니다.
-client_id = "qssctpld4w"  # 발급받은 Client ID를 입력하세요.
+client_id = ""  # 발급받은 Client ID를 입력하세요.
 # 발급받은 Client Secret을 입력하세요.
 client_secret = ""
 
